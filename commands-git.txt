@@ -1,0 +1,4 @@
+git clone https://github.com/rais-mahjoub/git-begins.git
+git add .
+git commit -m "ajout de commands-git.txt"
+git push -u origin main
